@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: d16ce61f6c32a6745816fd953f201c18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8935163342867445474
+    second: soilder_bow_attack_0
+  - first:
+      213: 7295085447050122349
+    second: soilder_bow_attack_1
+  - first:
+      213: -8675575365610962815
+    second: soilder_bow_attack_2
+  - first:
+      213: 5981343219363355582
+    second: soilder_bow_attack_3
+  - first:
+      213: 5013100651783209770
+    second: soilder_bow_attack_4
+  - first:
+      213: -5496399922989751018
+    second: soilder_bow_attack_5
+  - first:
+      213: -6299201545526843873
+    second: soilder_bow_attack_6
+  - first:
+      213: 4082368848344883530
+    second: soilder_bow_attack_7
+  - first:
+      213: 852330804123463047
+    second: soilder_bow_attack_8
+  - first:
+      213: -7620897940943037431
+    second: soilder_bow_attack_9
+  - first:
+      213: -7141863808971664350
+    second: soilder_bow_attack_10
+  - first:
+      213: 8042462670858683594
+    second: soilder_bow_attack_11
+  - first:
+      213: 8283571395245224156
+    second: soilder_bow_attack_12
+  - first:
+      213: -7284728828956027683
+    second: soilder_bow_attack_13
+  - first:
+      213: 244008268660921723
+    second: soilder_bow_attack_14
+  - first:
+      213: -33707778564788038
+    second: soilder_bow_attack_15
+  - first:
+      213: -3204441192368337223
+    second: soilder_bow_attack_16
+  - first:
+      213: -5488443979083699914
+    second: soilder_bow_attack_17
+  - first:
+      213: 1823833630555102468
+    second: soilder_bow_attack_18
+  - first:
+      213: 6595594060056549523
+    second: soilder_bow_attack_19
+  - first:
+      213: 4092726902280097528
+    second: soilder_bow_attack_20
+  - first:
+      213: -8277875213266870340
+    second: soilder_bow_attack_21
+  - first:
+      213: -8765599700913387187
+    second: soilder_bow_attack_22
+  - first:
+      213: -3171431530041504576
+    second: soilder_bow_attack_23
+  - first:
+      213: 8170767795826352615
+    second: soilder_bow_attack_24
+  - first:
+      213: 8002246878452185680
+    second: soilder_bow_attack_25
+  - first:
+      213: -1169658652476078152
+    second: soilder_bow_attack_26
+  - first:
+      213: -7174807006871613761
+    second: soilder_bow_attack_27
+  - first:
+      213: 2774560441745762952
+    second: soilder_bow_attack_28
+  - first:
+      213: 7109685810956052177
+    second: soilder_bow_attack_29
+  - first:
+      213: -302844039255788228
+    second: soilder_bow_attack_30
+  - first:
+      213: 7136424509705770727
+    second: soilder_bow_attack_31
+  - first:
+      213: -4118449302971053244
+    second: soilder_bow_attack_32
+  - first:
+      213: -7007864800616232584
+    second: soilder_bow_attack_33
+  - first:
+      213: 8049150002840809070
+    second: soilder_bow_attack_34
+  - first:
+      213: -358197663338670973
+    second: soilder_bow_attack_35
+  - first:
+      213: -4373826408691846811
+    second: soilder_bow_attack_36
+  - first:
+      213: 1438327306573279987
+    second: soilder_bow_attack_37
+  - first:
+      213: -6705330451093652213
+    second: soilder_bow_attack_38
+  - first:
+      213: 6773450142284631689
+    second: soilder_bow_attack_39
+  - first:
+      213: -3491100618720185143
+    second: soilder_bow_attack_40
+  - first:
+      213: -1671271167302222497
+    second: soilder_bow_attack_41
+  - first:
+      213: 1439684136052082118
+    second: soilder_bow_attack_42
+  - first:
+      213: 4496122612219770895
+    second: soilder_bow_attack_43
+  - first:
+      213: 4575727039480926753
+    second: soilder_bow_attack_44
+  - first:
+      213: 463597716027229443
+    second: soilder_bow_attack_45
+  - first:
+      213: -4276627470997297720
+    second: soilder_bow_attack_46
+  - first:
+      213: -4178428160073896116
+    second: soilder_bow_attack_47
+  - first:
+      213: -5406754150098492318
+    second: soilder_bow_attack_48
+  - first:
+      213: 2934092757580897355
+    second: soilder_bow_attack_49
+  - first:
+      213: 220494090442947084
+    second: soilder_bow_attack_50
+  - first:
+      213: -2812792712817831490
+    second: soilder_bow_attack_51
+  - first:
+      213: 5563257724424720305
+    second: soilder_bow_attack_52
+  - first:
+      213: 7080428961183070214
+    second: soilder_bow_attack_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soilder_bow_attack_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 217
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6b4b548b3100c70800000000000000
+      internalID: 8935163342867445474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 215
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d645b8520995d3560800000000000000
+      internalID: 7295085447050122349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 215
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18001ae8b2a2a9780800000000000000
+      internalID: -8675575365610962815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 215
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb18dda7fff10350800000000000000
+      internalID: 5981343219363355582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 264
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2341d47b7c129540800000000000000
+      internalID: 5013100651783209770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 215
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61526b6246dd8b3b0800000000000000
+      internalID: -5496399922989751018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 215
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16e746a19db498a0800000000000000
+      internalID: -6299201545526843873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 215
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41a7b796dc77a830800000000000000
+      internalID: 4082368848344883530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_8
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 215
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78de6eab95614db00800000000000000
+      internalID: 852330804123463047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_9
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 215
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c959033b12d3690800000000000000
+      internalID: -7620897940943037431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_10
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 264
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224960874b003ec90800000000000000
+      internalID: -7141863808971664350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_11
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 215
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac40fd730319c9f60800000000000000
+      internalID: 8042462670858683594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_12
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 215
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0bd25bb4825f270800000000000000
+      internalID: 8283571395245224156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_13
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 215
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd45709e9b177ea90800000000000000
+      internalID: -7284728828956027683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_14
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 215
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75dacf3a34e26300800000000000000
+      internalID: 244008268660921723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 153
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab07a7834fe388ff0800000000000000
+      internalID: -33707778564788038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_16
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 153
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be8141a6b98783d0800000000000000
+      internalID: -3204441192368337223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 153
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639a511b74125d3b0800000000000000
+      internalID: -5488443979083699914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 153
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dd5ae160f8f4910800000000000000
+      internalID: 1823833630555102468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_19
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 153
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398d8584ad1488b50800000000000000
+      internalID: 6595594060056549523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 153
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe0715fe694cc830800000000000000
+      internalID: 4092726902280097528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 153
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf97320a541f1d80800000000000000
+      internalID: -8277875213266870340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_22
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 153
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4989cf93855a5680800000000000000
+      internalID: -8765599700913387187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_23
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 153
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc076e83dfccf3d0800000000000000
+      internalID: -3171431530041504576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_24
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 153
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e16e6c0506646170800000000000000
+      internalID: 8170767795826352615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_25
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 153
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05afe136321bd0f60800000000000000
+      internalID: 8002246878452185680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_26
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 153
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b783b617a984cfe0800000000000000
+      internalID: -1169658652476078152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_27
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 153
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe0f6f7a07fd6c90800000000000000
+      internalID: -7174807006871613761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 89
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a6b128508318620800000000000000
+      internalID: 2774560441745762952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_29
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 90
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6abaa839daaa260800000000000000
+      internalID: 7109685810956052177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 90
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3570d963f41ccbf0800000000000000
+      internalID: -302844039255788228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 88
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6576bf74ca90360800000000000000
+      internalID: 7136424509705770727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_32
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 88
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b84feed2458d6c0800000000000000
+      internalID: -4118449302971053244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_33
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 89
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8794e45d7101fbe90800000000000000
+      internalID: -7007864800616232584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_34
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 89
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e2927084354bf60800000000000000
+      internalID: 8049150002840809070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_35
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 89
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384d25d7f1d670bf0800000000000000
+      internalID: -358197663338670973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_36
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 89
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56133b80e0c0d43c0800000000000000
+      internalID: -4373826408691846811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_37
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 88
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f27b039017f5f310800000000000000
+      internalID: 1438327306573279987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_38
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 88
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0df3f82b71e1f2a0800000000000000
+      internalID: -6705330451093652213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_39
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 88
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ec1b26401200e50800000000000000
+      internalID: 6773450142284631689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_40
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 88
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c47902eb7e1d8fc0800000000000000
+      internalID: -3491100618720185143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_41
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 25
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d39956ab37ec8e0800000000000000
+      internalID: -1671271167302222497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_42
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 25
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5462e0819caf310800000000000000
+      internalID: 1439684136052082118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 25
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08f5ffb1bf656e30800000000000000
+      internalID: 4496122612219770895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 25
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1221969cf7f308f30800000000000000
+      internalID: 4575727039480926753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_45
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 25
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3054c7e9aa70f6600800000000000000
+      internalID: 463597716027229443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_46
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 25
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5678249fd56a4c0800000000000000
+      internalID: -4276627470997297720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_47
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 25
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f6e470abd3306c0800000000000000
+      internalID: -4178428160073896116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_48
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 25
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264a2872fb957f4b0800000000000000
+      internalID: -5406754150098492318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_49
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 25
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cd7a941ddf7b820800000000000000
+      internalID: 2934092757580897355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_50
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 25
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0abceff43a5f0300800000000000000
+      internalID: 220494090442947084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_51
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 25
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb19fa53ee3f6f8d0800000000000000
+      internalID: -2812792712817831490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_52
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 25
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf884acc69a43d40800000000000000
+      internalID: 5563257724424720305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soilder_bow_attack_53
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 25
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60874b060acb24260800000000000000
+      internalID: 7080428961183070214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
