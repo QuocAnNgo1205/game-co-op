@@ -351,8 +351,8 @@ GameObject:
   - component: {fileID: 701005265}
   - component: {fileID: 701005264}
   - component: {fileID: 701005263}
-  - component: {fileID: 701005262}
   - component: {fileID: 701005266}
+  - component: {fileID: 701005267}
   m_Layer: 0
   m_Name: WarPriest
   m_TagString: Untagged
@@ -360,21 +360,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &701005262
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 701005261}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d1d300c2bfcd5948a445d1c29771bba, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rb: {fileID: 701005263}
-  speed: 5
-  animator: {fileID: 701005266}
 --- !u!50 &701005263
 Rigidbody2D:
   serializedVersion: 5
@@ -494,6 +479,22 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &701005267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 701005261}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1d300c2bfcd5948a445d1c29771bba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rb: {fileID: 701005263}
+  speed: 5
+  animator: {fileID: 701005266}
+  attackCooldown: 0.5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

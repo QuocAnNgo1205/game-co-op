@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C067C338-D3EC-1B5E-DC28-4DB60FA35BEB}|Assembly-CSharp.csproj|e:\\code\\game\\2d\\co-op\\dungeon\\assets\\character\\scripts\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C067C338-D3EC-1B5E-DC28-4DB60FA35BEB}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\code\\game\\2d\\co-op\\dungeon\\Assets\\character\\scripts\\OrcAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\character\\scripts\\OrcAttack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,21 +28,10 @@
               "RelativeDocumentMoniker": "Assets\\character\\scripts\\move.cs",
               "ToolTip": "E:\\code\\game\\2d\\co-op\\dungeon\\Assets\\character\\scripts\\move.cs",
               "RelativeToolTip": "Assets\\character\\scripts\\move.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T14:09:50.144Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrcAttack.cs",
-              "DocumentMoniker": "E:\\code\\game\\2d\\co-op\\dungeon\\Assets\\character\\scripts\\OrcAttack.cs",
-              "RelativeDocumentMoniker": "Assets\\character\\scripts\\OrcAttack.cs",
-              "ToolTip": "E:\\code\\game\\2d\\co-op\\dungeon\\Assets\\character\\scripts\\OrcAttack.cs",
-              "RelativeToolTip": "Assets\\character\\scripts\\OrcAttack.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T16:04:46.45Z"
             }
           ]
         }
