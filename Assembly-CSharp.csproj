@@ -61,7 +61,11 @@
     <Analyzer Include="E:\New folder\unity\6000.0.49f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\character\scripts\MovementData.cs" />
+    <Compile Include="Assets\character\scripts\attack.cs" />
+    <Compile Include="Assets\character\scripts\CharacterStats.cs" />
     <Compile Include="Assets\character\scripts\PlayerController.cs" />
+    <Compile Include="Assets\character\scripts\move.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -1,9 +1,11 @@
 ﻿using UnityEngine;
 
-public class move : MonoBehaviour
+public class WarPriest_controller : MonoBehaviour
 {
     public Rigidbody2D rb;
-    public float speed = 5f;
+    public float speed = 7f;
+    public float MaxHealth = 100f;
+    public float CurrentHealth { get; private set; }
 
     private Vector2 input;
     private Vector2 movement;
@@ -12,15 +14,38 @@ public class move : MonoBehaviour
     private Vector2 lastMovement = Vector2.down;
     private bool isAttacking = false;
 
-
-    public float attackCooldown = 0.5f;
+    public float attackCooldown = 0.0f;
     private float attackTimer = 0f;
 
+    private void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
+        CurrentHealth = MaxHealth; // Initialize current health
+        attackTimer = 0f; // Set initial attack timer
+    }
+
+    // This function will be called when the character dies
+    void Die()
+    {
+        // Perform actions when the character dies, e.g., show a message, reset the game, etc.
+        Debug.Log("War Priest has died!");
+        // Additional logic to reset position or reload the scene can be added here
+    }
+
+    private void TakeDamage()
+    {
+        CurrentHealth -= 10f; // Reduce health when taking damage
+        if (CurrentHealth <= 0f)
+        {
+            Die(); // Call Die if health <= 0
+        }
+    }
 
     void Update()
     {
         attackTimer -= Time.deltaTime;
-        // Nếu đang tấn công thì không nhận input di chuyển
+        // If attacking, do not accept movement input
         if (!isAttacking)
         {
             input.x = Input.GetAxisRaw("Horizontal");
@@ -41,17 +66,16 @@ public class move : MonoBehaviour
             animator.SetFloat("speed", input.sqrMagnitude);
         }
 
-        // Kiểm tra phím Space để tấn công
-        if (Input.GetKeyDown(KeyCode.Space) && !isAttacking && attackTimer <= 0f)
+        // Check for Space key to attack
+        if (Input.GetKeyDown(KeyCode.F) && !isAttacking && attackTimer <= 0f)
         {
             isAttacking = true;
             animator.SetBool("isAttacking", true);
             attackTimer = attackCooldown;
         }
-
     }
 
-    void FixedUpdate()
+    public void FixedUpdate()
     {
         if (!isAttacking)
         {
@@ -59,7 +83,7 @@ public class move : MonoBehaviour
         }
     }
 
-    // Gọi từ Animation Event khi animation tấn công kết thúc
+    // Called from Animation Event when attack animation ends
     public void EndAttack()
     {
         isAttacking = false;

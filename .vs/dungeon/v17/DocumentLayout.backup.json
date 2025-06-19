@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "E:\\code\\game\\2d\\co-op\\dungeon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C067C338-D3EC-1B5E-DC28-4DB60FA35BEB}|Assembly-CSharp.csproj|e:\\code\\game\\2d\\co-op\\dungeon\\assets\\character\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C067C338-D3EC-1B5E-DC28-4DB60FA35BEB}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C067C338-D3EC-1B5E-DC28-4DB60FA35BEB}|Assembly-CSharp.csproj|e:\\code\\game\\2d\\co-op\\dungeon\\assets\\character\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C067C338-D3EC-1B5E-DC28-4DB60FA35BEB}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C067C338-D3EC-1B5E-DC28-4DB60FA35BEB}|Assembly-CSharp.csproj|e:\\code\\game\\2d\\co-op\\dungeon\\assets\\character\\scripts\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C067C338-D3EC-1B5E-DC28-4DB60FA35BEB}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\characterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C067C338-D3EC-1B5E-DC28-4DB60FA35BEB}|Assembly-CSharp.csproj|e:\\code\\game\\2d\\co-op\\dungeon\\assets\\character\\scripts\\movementdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C067C338-D3EC-1B5E-DC28-4DB60FA35BEB}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\movementdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C067C338-D3EC-1B5E-DC28-4DB60FA35BEB}|Assembly-CSharp.csproj|e:\\code\\game\\2d\\co-op\\dungeon\\assets\\character\\scripts\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C067C338-D3EC-1B5E-DC28-4DB60FA35BEB}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +38,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovementData.cs",
+              "DocumentMoniker": "E:\\code\\game\\2d\\co-op\\dungeon\\Assets\\character\\scripts\\MovementData.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\scripts\\MovementData.cs",
+              "ToolTip": "E:\\code\\game\\2d\\co-op\\dungeon\\Assets\\character\\scripts\\MovementData.cs",
+              "RelativeToolTip": "Assets\\character\\scripts\\MovementData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:37:24.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\code\\game\\2d\\co-op\\dungeon\\Assets\\character\\scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\scripts\\PlayerController.cs",
+              "ToolTip": "E:\\code\\game\\2d\\co-op\\dungeon\\Assets\\character\\scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\character\\scripts\\PlayerController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAcwFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:37:19.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterStats.cs",
+              "DocumentMoniker": "E:\\code\\game\\2d\\co-op\\dungeon\\Assets\\character\\scripts\\CharacterStats.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\scripts\\CharacterStats.cs",
+              "ToolTip": "E:\\code\\game\\2d\\co-op\\dungeon\\Assets\\character\\scripts\\CharacterStats.cs",
+              "RelativeToolTip": "Assets\\character\\scripts\\CharacterStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:37:09.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "attack.cs",
+              "DocumentMoniker": "E:\\code\\game\\2d\\co-op\\dungeon\\Assets\\character\\scripts\\attack.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\scripts\\attack.cs",
+              "ToolTip": "E:\\code\\game\\2d\\co-op\\dungeon\\Assets\\character\\scripts\\attack.cs",
+              "RelativeToolTip": "Assets\\character\\scripts\\attack.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA8wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:37:05.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "move.cs",
               "DocumentMoniker": "E:\\code\\game\\2d\\co-op\\dungeon\\Assets\\character\\scripts\\move.cs",
               "RelativeDocumentMoniker": "Assets\\character\\scripts\\move.cs",
               "ToolTip": "E:\\code\\game\\2d\\co-op\\dungeon\\Assets\\character\\scripts\\move.cs",
               "RelativeToolTip": "Assets\\character\\scripts\\move.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T14:09:50.144Z",
+              "WhenOpened": "2025-06-17T04:37:00.426Z",
               "EditorCaption": ""
             }
           ]
