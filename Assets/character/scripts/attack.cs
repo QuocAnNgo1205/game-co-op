@@ -6,7 +6,22 @@ public class Attack : MonoBehaviour
     public CharacterStats characterStats;
     public MovementData movementData;
     public Animator animator;
+    private Rigidbody2D rb; // tham chiếu đến Rigidbody của đối tượng này
     public bool isAttacking = false;
+
+    void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+
+        if (animator == null)
+            animator = GetComponentInParent<Animator>(); // tìm Animator từ cha
+    }
+    void Awake()
+    {
+        if (characterStats == null) characterStats = GetComponent<Character>().characterStats;
+        if (animator == null) animator = GetComponent<Animator>();
+    }
+
 
     void Update()
     {

@@ -65,7 +65,9 @@
     <Compile Include="Assets\character\scripts\attack.cs" />
     <Compile Include="Assets\character\scripts\CharacterStats.cs" />
     <Compile Include="Assets\character\scripts\PlayerController.cs" />
+    <Compile Include="Assets\character\scripts\Character.cs" />
     <Compile Include="Assets\character\scripts\move.cs" />
+    <Compile Include="Assets\character\scripts\die.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

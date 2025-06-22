@@ -11,7 +11,16 @@ public class move : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        rb = GetComponent<Rigidbody2D>(); // nhận Rigidbody từ đối tượng 
+        rb = GetComponent<Rigidbody2D>();
+
+        if (animator == null)
+            animator = GetComponentInParent<Animator>(); // tìm Animator từ cha
+    }
+
+    void Awake()
+    {
+        if (characterStats == null) characterStats = GetComponent<Character>().characterStats;
+        if (animator == null) animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -21,7 +30,9 @@ public class move : MonoBehaviour
         float moveY = Input.GetAxis("Vertical"); // nhận đầu vào từ bàn phím hoặc tay cầm
         
         Vector2 movement = new Vector2(moveX, moveY).normalized; // chuẩn hóa đầu vào di chuyển
-        rb.linearVelocity = movement * characterStats.baseMoveSpeed; // đặt vận tốc của Rigidbody dựa trên tốc độ của nhân vật
+        Vector2 vector2 = movement * characterStats.baseMoveSpeed;
+        Vector2 moveVelocity = vector2;
+        rb.linearVelocity = moveVelocity; // đặt vận tốc của Rigidbody dựa trên tốc độ của nhân vật
 
         if (movement != Vector2.zero)
         {
