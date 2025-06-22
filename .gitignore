@@ -39,7 +39,7 @@ Thumbs.db
 # Rider and VSCode
 # ===========================
 .idea/
-.vscode/
+.vs/
 
 # ===========================
 # Packages
