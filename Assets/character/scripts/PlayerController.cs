@@ -70,6 +70,8 @@ public class WarPriest_controller : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.F) && !isAttacking && attackTimer <= 0f)
         {
             isAttacking = true;
+            animator.SetFloat("Last_Horizontal", lastMovement.x);
+            animator.SetFloat("Last_Vertical", lastMovement.y);
             animator.SetBool("isAttacking", true);
             attackTimer = attackCooldown;
         }

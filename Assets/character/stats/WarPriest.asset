@@ -15,6 +15,6 @@ MonoBehaviour:
   maxHealth: 100
   basedamage: 10
   basearmor: 0
-  baseMoveSpeed: 7
+  baseMoveSpeed: 4
   baseAttackCooldown: 0.5
   baseAttackRange: 0
