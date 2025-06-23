@@ -255,6 +255,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1459,7 +1472,61 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      soilder_bow_attack_0: 8935163342867445474
+      soilder_bow_attack_1: 7295085447050122349
+      soilder_bow_attack_10: -7141863808971664350
+      soilder_bow_attack_11: 8042462670858683594
+      soilder_bow_attack_12: 8283571395245224156
+      soilder_bow_attack_13: -7284728828956027683
+      soilder_bow_attack_14: 244008268660921723
+      soilder_bow_attack_15: -33707778564788038
+      soilder_bow_attack_16: -3204441192368337223
+      soilder_bow_attack_17: -5488443979083699914
+      soilder_bow_attack_18: 1823833630555102468
+      soilder_bow_attack_19: 6595594060056549523
+      soilder_bow_attack_2: -8675575365610962815
+      soilder_bow_attack_20: 4092726902280097528
+      soilder_bow_attack_21: -8277875213266870340
+      soilder_bow_attack_22: -8765599700913387187
+      soilder_bow_attack_23: -3171431530041504576
+      soilder_bow_attack_24: 8170767795826352615
+      soilder_bow_attack_25: 8002246878452185680
+      soilder_bow_attack_26: -1169658652476078152
+      soilder_bow_attack_27: -7174807006871613761
+      soilder_bow_attack_28: 2774560441745762952
+      soilder_bow_attack_29: 7109685810956052177
+      soilder_bow_attack_3: 5981343219363355582
+      soilder_bow_attack_30: -302844039255788228
+      soilder_bow_attack_31: 7136424509705770727
+      soilder_bow_attack_32: -4118449302971053244
+      soilder_bow_attack_33: -7007864800616232584
+      soilder_bow_attack_34: 8049150002840809070
+      soilder_bow_attack_35: -358197663338670973
+      soilder_bow_attack_36: -4373826408691846811
+      soilder_bow_attack_37: 1438327306573279987
+      soilder_bow_attack_38: -6705330451093652213
+      soilder_bow_attack_39: 6773450142284631689
+      soilder_bow_attack_4: 5013100651783209770
+      soilder_bow_attack_40: -3491100618720185143
+      soilder_bow_attack_41: -1671271167302222497
+      soilder_bow_attack_42: 1439684136052082118
+      soilder_bow_attack_43: 4496122612219770895
+      soilder_bow_attack_44: 4575727039480926753
+      soilder_bow_attack_45: 463597716027229443
+      soilder_bow_attack_46: -4276627470997297720
+      soilder_bow_attack_47: -4178428160073896116
+      soilder_bow_attack_48: -5406754150098492318
+      soilder_bow_attack_49: 2934092757580897355
+      soilder_bow_attack_5: -5496399922989751018
+      soilder_bow_attack_50: 220494090442947084
+      soilder_bow_attack_51: -2812792712817831490
+      soilder_bow_attack_52: 5563257724424720305
+      soilder_bow_attack_53: 7080428961183070214
+      soilder_bow_attack_6: -6299201545526843873
+      soilder_bow_attack_7: 4082368848344883530
+      soilder_bow_attack_8: 852330804123463047
+      soilder_bow_attack_9: -7620897940943037431
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

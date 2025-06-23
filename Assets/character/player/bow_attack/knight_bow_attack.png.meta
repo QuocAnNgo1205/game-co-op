@@ -249,6 +249,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1409,7 +1422,59 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      knight_bow_attack_0: 2311034654729212907
+      knight_bow_attack_1: -5840223836929053561
+      knight_bow_attack_10: 3570663401736908225
+      knight_bow_attack_11: 5150648550562416977
+      knight_bow_attack_12: 8998350379140705703
+      knight_bow_attack_13: 3072341912318499259
+      knight_bow_attack_14: -169682620530795881
+      knight_bow_attack_15: 2837146997171422045
+      knight_bow_attack_16: -5181066533752687468
+      knight_bow_attack_17: -3029447358543810142
+      knight_bow_attack_18: -4684311130658461326
+      knight_bow_attack_19: 8069425193050750777
+      knight_bow_attack_2: 1034721963051222598
+      knight_bow_attack_20: 786611220771983278
+      knight_bow_attack_21: 89861270406974242
+      knight_bow_attack_22: 6481328453733717450
+      knight_bow_attack_23: -4459171476327702425
+      knight_bow_attack_24: -9052125656317069019
+      knight_bow_attack_25: -13169040590946880
+      knight_bow_attack_26: -7003293061474906285
+      knight_bow_attack_27: 2019129657928766117
+      knight_bow_attack_28: 2518112782037156098
+      knight_bow_attack_29: 6590660546056555587
+      knight_bow_attack_3: -4855072882660640113
+      knight_bow_attack_30: 5937288165562307750
+      knight_bow_attack_31: -3645583192386135876
+      knight_bow_attack_32: 6637524323193205169
+      knight_bow_attack_33: 8744357999923090845
+      knight_bow_attack_34: 8777428367112832385
+      knight_bow_attack_35: 6239431235856605648
+      knight_bow_attack_36: 1293165221788210667
+      knight_bow_attack_37: 5943997505961363933
+      knight_bow_attack_38: 8574913944107427763
+      knight_bow_attack_39: -1061160555879304895
+      knight_bow_attack_4: -113181602483348501
+      knight_bow_attack_40: -3509770570259124343
+      knight_bow_attack_41: 3979707703990663659
+      knight_bow_attack_42: 5508355596214402364
+      knight_bow_attack_43: -2662309159077784032
+      knight_bow_attack_44: 6929244175838915199
+      knight_bow_attack_45: -6136822483709658460
+      knight_bow_attack_46: 4283399569754045895
+      knight_bow_attack_47: -4223330773723417231
+      knight_bow_attack_48: 2251649179971448387
+      knight_bow_attack_49: -5608812233620135898
+      knight_bow_attack_5: -3161835812450717569
+      knight_bow_attack_50: 3499884284510672058
+      knight_bow_attack_51: 2964392722406417502
+      knight_bow_attack_6: -4884954684831144696
+      knight_bow_attack_7: -1470559828530972240
+      knight_bow_attack_8: -3984342353567303628
+      knight_bow_attack_9: 452540484790712844
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

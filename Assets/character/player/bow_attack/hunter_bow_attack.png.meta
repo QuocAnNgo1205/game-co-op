@@ -249,6 +249,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1409,7 +1422,59 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hunter_bow_attack_0: 3931108506316213067
+      hunter_bow_attack_1: -5281482821700914205
+      hunter_bow_attack_10: -6173320154024217353
+      hunter_bow_attack_11: -8396006841240703202
+      hunter_bow_attack_12: 7543887297409257374
+      hunter_bow_attack_13: -7682381013962601628
+      hunter_bow_attack_14: 5848327605954301244
+      hunter_bow_attack_15: -4714882032637966735
+      hunter_bow_attack_16: 8045483703184191155
+      hunter_bow_attack_17: 6145339758061406336
+      hunter_bow_attack_18: -7551621095037106608
+      hunter_bow_attack_19: -5807408035155432453
+      hunter_bow_attack_2: 4951059258865203344
+      hunter_bow_attack_20: 4170864047154919330
+      hunter_bow_attack_21: 1577341862013312871
+      hunter_bow_attack_22: 7221239806394562539
+      hunter_bow_attack_23: -7573340223542064161
+      hunter_bow_attack_24: -768345911990476642
+      hunter_bow_attack_25: 800393314643271210
+      hunter_bow_attack_26: 8671869250944288423
+      hunter_bow_attack_27: 7476653141410984833
+      hunter_bow_attack_28: -2600018098756922455
+      hunter_bow_attack_29: -2527752527358908801
+      hunter_bow_attack_3: -7624147075102555607
+      hunter_bow_attack_30: -4730539312211691247
+      hunter_bow_attack_31: 810780741829138573
+      hunter_bow_attack_32: 8458996421980861602
+      hunter_bow_attack_33: 5647021707233687313
+      hunter_bow_attack_34: 1749129050250882053
+      hunter_bow_attack_35: -8741055449155767537
+      hunter_bow_attack_36: -391733515665977278
+      hunter_bow_attack_37: -7752141162157122481
+      hunter_bow_attack_38: -6791134557696844979
+      hunter_bow_attack_39: -3173822438549009756
+      hunter_bow_attack_4: -6644254441376466079
+      hunter_bow_attack_40: 2943786438681904473
+      hunter_bow_attack_41: 2888623065950662957
+      hunter_bow_attack_42: 4924384799689493443
+      hunter_bow_attack_43: -2010526049879551543
+      hunter_bow_attack_44: -1817455584516347742
+      hunter_bow_attack_45: 6077731821861022732
+      hunter_bow_attack_46: -8381220878781577894
+      hunter_bow_attack_47: 949487655472879236
+      hunter_bow_attack_48: 523894815565425027
+      hunter_bow_attack_49: 1640608055518798785
+      hunter_bow_attack_5: -9040667107677358172
+      hunter_bow_attack_50: 1509464825699157239
+      hunter_bow_attack_51: -6388617761843968912
+      hunter_bow_attack_6: -136049044164592589
+      hunter_bow_attack_7: -7332580102276889632
+      hunter_bow_attack_8: -2230022629496992324
+      hunter_bow_attack_9: -4585273485426782459
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
