@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using Photon.Pun;
+using UnityEngine.UIElements;
 
 public class Attack : MonoBehaviour
 {
@@ -16,7 +17,6 @@ public class Attack : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         view = GetComponentInParent<PhotonView>();
-
         if (animator == null)
             animator = GetComponentInParent<Animator>(); // tìm Animator từ cha
     }
@@ -26,8 +26,7 @@ public class Attack : MonoBehaviour
         if (view.IsMine)
         {
             if (Input.GetKeyDown(KeyCode.Space) && !isAttacking && canAttack)
-            {
-                canAttack = false; // Ngăn chặn tấn công liên tục
+            {                
                 StartCoroutine(AttackRoutine());
             }
         }
@@ -36,6 +35,8 @@ public class Attack : MonoBehaviour
     IEnumerator AttackRoutine()
     {
         isAttacking = true;
+        canAttack = false;
+        // Kích hoạt hitbox tấn công
 
         // Cập nhật hướng tấn công (animation nhìn đúng hướng)
         animator.SetFloat("Last_Horizontal", move.movementData.LastHorizontalInput);
@@ -52,7 +53,7 @@ public class Attack : MonoBehaviour
     public void EndAttack()
     {
         // Hàm này có thể được gọi từ Animation Event để kết thúc tấn công
-       animator.SetBool("isAttacking", false);
-       isAttacking = false;
+        animator.SetBool("isAttacking", false);
+        isAttacking = false;
     }
 }

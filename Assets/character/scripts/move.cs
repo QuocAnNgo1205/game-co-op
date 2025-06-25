@@ -14,7 +14,7 @@ public class move : MonoBehaviour
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        view = GetComponentInParent<PhotonView>();
+        view = GetComponentInParent<PhotonView>();        
 
         if (animator == null)
             animator = GetComponentInParent<Animator>(); // tìm Animator từ cha

@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - Bullet
+  - Wall
+  - 'Enemy '
   layers:
   - Default
   - TransparentFX
@@ -14,8 +16,8 @@ TagManager:
   - UI
   - Player
   - Map
-  - 
-  - 
+  - Bullet
+  - 'Enemy '
   - 
   - 
   - 
@@ -44,6 +46,9 @@ TagManager:
     locked: 0
   - name: Map
     uniqueID: 3710965155
+    locked: 0
+  - name: Bullet
+    uniqueID: 1796941499
     locked: 0
   - name: Player
     uniqueID: 2703640643
