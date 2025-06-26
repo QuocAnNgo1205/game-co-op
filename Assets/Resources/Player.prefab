@@ -196,6 +196,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4107313078214113321, guid: 4c514b0c6dd79d241b90b6068265dce7, type: 3}
       insertIndex: -1
       addedObject: {fileID: 7075551912615100153}
+    - targetCorrespondingSourceObject: {fileID: 4107313078214113321, guid: 4c514b0c6dd79d241b90b6068265dce7, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7318917001790003506}
   m_SourcePrefab: {fileID: 100100000, guid: 4c514b0c6dd79d241b90b6068265dce7, type: 3}
 --- !u!1 &4630140224680170726 stripped
 GameObject:
@@ -349,8 +352,8 @@ MonoBehaviour:
     SynchronizeType: 1
     Name: isAttacking
   - Type: 4
-    SynchronizeType: 1
-    Name: die
+    SynchronizeType: 0
+    Name: Die
   m_SynchronizeLayers:
   - SynchronizeType: 0
     LayerIndex: 0
@@ -400,6 +403,21 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 2.3736844, y: 3.2307987}
   m_EdgeRadius: 0
+--- !u!114 &7318917001790003506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4630140224680170726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4fb14e375a3f4d468264a4983e94271, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterStats: {fileID: 11400000, guid: 265f5b66a91dc904fb48b125b1a5a04a, type: 2}
+  photonView: {fileID: 6504362121882052664}
+  animator: {fileID: 4589049352819532599}
 --- !u!4 &8807028426542361399 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 250322282685695992, guid: 4c514b0c6dd79d241b90b6068265dce7, type: 3}
